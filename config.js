@@ -25,14 +25,12 @@ module.exports = {
   author: {
     name: 'Gail Smith',
     photo: '/photo.png',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Experienced software professional, collaborator, leading by example.',
     contacts: {
-      email: '#',
+      email: 'owner@nimblesmith.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      twitter: '@nimblesmith',
+      github: 'https://github.com/nimble',
     }
   }
 };
